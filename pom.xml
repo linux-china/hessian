@@ -26,8 +26,9 @@
     </developers>
 
     <scm>
-        <url>svn://svn.caucho.com/home/svn/svnroot/resin/trunk/modules/hessian</url>
-        <connection>scm:svn:svn://svn.caucho.com/home/svn/svnroot/resin/trunk/modules/hessian</connection>
+        <connection>scm:git:git@github.com:linux-china/hessian.git</connection>
+        <developerConnection>scm:git:git@github.com:linux-china/hessian.git</developerConnection>
+        <url>git@github.com:linux-china/hessian.git</url>
     </scm>
 
     <dependencies>
